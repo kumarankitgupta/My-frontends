@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-right: 10px;
+    
+}
+input{
+    width: 500px;
+    height: 25px;
+    border: solid #1C6DD0 2px;
+    border-radius: 28px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.nav-bar{
+    height: 100px;
+    width: 100%;
+    background-color: #548CFF;
+}
+.imgtext{
+    width: 200px;
+    height: 20px;
+}
+.input-section{
+    margin-left: 200px;
+    margin-top: 0px;
+    width: 600px;    
+}
+.uplinks{
+    right: 800px;
+    font-size: large;
+    font-family: sans-serif;
+    margin-left: 800px;
+}
+a{
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+a:hover{
+    color: antiquewhite;
+}
+button{
+    background-color: azure;
+    border-radius: 30px;
+}
